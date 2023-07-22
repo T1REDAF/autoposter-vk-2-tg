@@ -1,0 +1,6 @@
+python3 -m pip install -r requirements.txt #download dependencies
+crontab -e
+i
+0 0 * * * python3 vktgbot
+esc
+:wq
